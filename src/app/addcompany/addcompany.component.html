@@ -1,0 +1,14 @@
+
+    <form class="center padding-table" [formGroup]="productForm" (ngSubmit)="submit()" >
+        <div class="form-outline">
+            <mat-form-field appearance="fill" class="example-full-width">
+              <mat-label>Name</mat-label>
+              <input required id="name"  matInput placeholder="Enter Name"   name="name"  formControlName="name"  />
+                
+            </mat-form-field>
+
+          </div>
+          <button class="btn btn-success btn-block btn-lg "  name="submitbutton" >Create</button>
+  
+    </form>
+

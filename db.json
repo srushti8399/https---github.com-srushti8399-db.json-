@@ -1,0 +1,66 @@
+{
+  "CompanyList": [
+    {
+      "name": "Laptop",
+      "id": 1
+    },
+    {
+      "name": "Refrigerator",
+      "id": 2
+    },
+    {
+      "name": "Refrigerator",
+      "id": 3
+    },
+    {
+      "name": "The Lost symbol",
+      "id": 4
+    },
+    {
+      "name": "Laptop",
+      "id": 5
+    },
+    {
+      "name": "Laptop",
+      "id": 6
+    },
+    {
+      "name": "globallogic",
+      "id": 7
+    },
+    {
+      "name": "wipro",
+      "id": 8
+    },
+    {
+      "name": "Laptop",
+      "id": 9
+    },
+    {
+      "name": "Laptop",
+      "id": 10
+    },
+    {
+      "name": "tcs",
+      "id": 11
+    },
+    {
+      "name": "The Lost symbol",
+      "id": 12
+    },
+    {
+      "name": "capg",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
